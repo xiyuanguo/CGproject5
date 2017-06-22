@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\72407\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\源.cpp(189): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\72407\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\源.cpp(191): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication17.vcxproj -> c:\users\72407\documents\visual studio 2015\Projects\ConsoleApplication17\Debug\ConsoleApplication17.exe
+  ConsoleApplication17.vcxproj -> c:\users\72407\documents\visual studio 2015\Projects\ConsoleApplication17\Debug\ConsoleApplication17.pdb (Full PDB)
